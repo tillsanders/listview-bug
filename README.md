@@ -1,19 +1,3 @@
-# NativeScript-Vue Application
+# Reproduction of a bug in [nativescript-vue@v2.3.0-rc.2](https://github.com/nativescript-vue/nativescript-vue/releases/tag/v2.3.0-rc.2), concerning the ListView element. 
 
-> A native application built with NativeScript-Vue
-
-## Usage
-
-``` bash
-# Install dependencies
-npm install
-
-# Build for production
-tns build <platform> --bundle
-
-# Build, watch for changes and debug the application
-tns debug <platform> --bundle
-
-# Build, watch for changes and run the application
-tns run <platform> --bundle
-```
+For more information, see this [issue](https://github.com/nativescript-vue/nativescript-vue/issues/522).
